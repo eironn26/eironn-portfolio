@@ -2,7 +2,7 @@
 
 ## 🌐 Live Website
 
-🔗 https://username.github.io/repo-name/
+🔗 https://eironn26.github.io/eironn-portfolio/
 
 ---
 
